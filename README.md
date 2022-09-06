@@ -6,3 +6,4 @@ I implemented several features and graphics for this game
 
 Home Screen:
 
+![image](https://user-images.githubusercontent.com/94979678/188538121-d7b3e140-c433-4673-b595-0451e70852e3.png)
