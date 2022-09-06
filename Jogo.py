@@ -2,7 +2,7 @@ from graphics import *
 import random
 
 #Home Screen
-win = GraphWin("Tela Inicial", 800, 600)
+win = GraphWin("Ball Game", 800, 600)
 win.setBackground(color_rgb(0, 200, 255))
 
 #Play
