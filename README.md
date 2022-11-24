@@ -1,22 +1,22 @@
-# Ball_Game
+# Jogo da Bolinha
 
-Developed with Python
+Desenvolvido Utilizando Python.
 
-College project of my first semester of the course, which was proposed to improve a ball game using python and only the graphics library.
+Projeto realizado na faculdade na matéria de lógica de programação 1, onde tive o desafio de desenvolver um jogo utilizando somente a biblioteca graphics.py.
 
-I implemented several features and graphics for this game.
+Bastante promissor para minha lógica como sendo um dos primeiros projetos que desenvolvi. 
 
-|| Pre-requirements: graphics.py ||
+|| Pre-requisitos: graphics.py ||
 
-Home Screen:
+Tela Inicial:
 
 ![image](https://user-images.githubusercontent.com/94979678/188538121-d7b3e140-c433-4673-b595-0451e70852e3.png)
 
-The Game:
+O jogo:
 
 ![image](https://user-images.githubusercontent.com/94979678/188538187-81e17246-6575-4479-b25b-f9e245812786.png)
 
-Final Screen:
+Tela Final:
 
 ![image](https://user-images.githubusercontent.com/94979678/188538236-aedfc3a4-d32e-408a-ae5d-b463bdcc110d.png)
 
